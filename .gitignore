@@ -1,1 +1,3 @@
 /data/variational-autoencoder-training/
+/.venv
+/data/ffn-training/celeba_1000
